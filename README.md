@@ -1,3 +1,3 @@
 # ShadowDomo.github.io
 
-(Forum thing http://domz.me/frontend)
+[Knockoff social media clone](http://domz.me/frontend)
